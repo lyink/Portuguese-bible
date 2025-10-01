@@ -1,12 +1,15 @@
-Last updated: [01/10/2025]
+Privacy Policy for Portuguese Bible
 
-This Privacy Policy describes how Portuguese Bible (“the App”, “we”, “our”, or “us”) collects, uses, and protects your information.
+Developer: lyinks
+Last updated: 01/10/2025
+
+This Privacy Policy describes how Portuguese Bible (“the App”, “we”, “our”, or “us”), developed and published by lyinks, collects, uses, and protects your information.
 
 1. Information We Do Not Collect
 
 We do not collect, store, or share any personally identifiable information (such as name, email, phone number, or address).
 
-We do not require you to create an account to use the app.
+We do not require you to create an account to use the App.
 
 2. Information We May Collect Automatically
 
@@ -39,3 +42,11 @@ The App is suitable for users of all ages. We do not knowingly collect personal 
 7. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Updates will be posted within the App or on this page.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us at:
+
+📧 Email: lyinkjr2@gmail.com
+
+👤 Developer: lyinks
